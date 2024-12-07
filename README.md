@@ -24,6 +24,7 @@ This script is designed to enhance your gameplay experience in Roblox. It provid
 - [Bring all players to me (for Murderer to kill everyone with 1 click)]
 - [Auto Shoot Murderer] - silent aim
 - [Manual Shoot Murderer] - with click of a button
+- [Speed And Jump Sliders]
 - [Player, Traps, Dropeed Gun ESP]
 - [Auto Teleport At Spawn on start of a round]
 - [Auto Kill Everyone As A Murderer]
