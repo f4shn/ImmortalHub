@@ -59,5 +59,9 @@ This script is designed to enhance your gameplay experience in Roblox. It provid
   - Screenshot red text and send it to developer.
   - Wait for us to fix the issue.
 
+## Script
+```lua
+https://raw.githubusercontent.com/f4shn/ImmortalHub/refs/heads/main/loader.lua
+```
 ---
 Feel free to adjust any sections to better suit your script and its functionality. Happy scripting!
