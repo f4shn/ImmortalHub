@@ -62,7 +62,7 @@ This script is designed to enhance your gameplay experience in Roblox. It provid
 
 ## Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/f4shn/ImmortalHub/refs/heads/main/loader.lua", true))("discord.gg/immortalhub")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/f4shn/ImmortalHub/refs/heads/main/loader.lua", true))("discord.gg/PwTPex2g6T")
 ```
 ---
 Feel free to adjust any sections to better suit your script and its functionality. Happy scripting!
