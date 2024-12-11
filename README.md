@@ -8,6 +8,8 @@ This script is designed to enhance your gameplay experience in Roblox. It provid
 
 ## Features (MM2)
 - [U can put this script in auto execute and it will wait for full game load before running]
+- [Auto Run Itself On Serverhop]
+- [Auto Rejoin On Crash/Kick]
 - [Auto Pick Up Gun]
 - [Fling Murderer]
 - [Fling Sheriff]
@@ -26,14 +28,18 @@ This script is designed to enhance your gameplay experience in Roblox. It provid
 - [Manual Shoot Murderer] - with click of a button
 - [Speed And Jump Sliders]
 - [Player, Traps, Dropeed Gun ESP]
+- [Spoof Roblox Username (for privacy)]
 - [Auto Teleport At Spawn on start of a round]
 - [Auto Kill Everyone As A Murderer]
+- [Auto Prestige]
 - [Auto Fling Murderer] - at round start
 - [Auto Fling Sheriff] - at round start
 - [Coin Farm (2 methods)]
 - [Settings for coin farm (float, destroy map, destroy players, die at full bag]
 - [Second Method of Coin Farm is way faster]
 - [SERVER CRASHER] - fully working
+- [Unlock Emotes]
+- [Spawn Gingerscope in Your Inventory! (Fully Usable)]
 - [Crate Spawner (visual)] - pick a weapon and it will visually roll
 - [Item Spawner (visual)] - not in inventory but it will look like u got it
 - [Settings Configuration (Save, Reset, Load, Auto-Load)]
