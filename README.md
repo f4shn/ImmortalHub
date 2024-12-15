@@ -5,6 +5,7 @@ This script is designed to enhance your gameplay experience in Roblox. It provid
 
 ## Supported Games
 - Murder Mystery 2
+- Impossible Squid Game Glass Bridge 2
 
 ## Features (MM2)
 - [U can put this script in auto execute and it will wait for full game load before running]
@@ -44,6 +45,10 @@ This script is designed to enhance your gameplay experience in Roblox. It provid
 - [Item Spawner (visual)] - not in inventory but it will look like u got it
 - [Settings Configuration (Save, Reset, Load, Auto-Load)]
   
+## Features [Squid Game Bridge]
+- [Auto Complecte Bridge]
+- [Auto Open Crate (glitched by paying for small box and opening good box)]
+
 ## Usage
 1. **Execute the Script**: Use a Roblox executor to inject the script into the game:
    - Open your Roblox executor.
