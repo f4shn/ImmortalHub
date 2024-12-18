@@ -44,6 +44,14 @@ This script is designed to enhance your gameplay experience in Roblox. It provid
 - [Crate Spawner (visual)] - pick a weapon and it will visually roll
 - [Item Spawner (visual)] - not in inventory but it will look like u got it
 - [Settings Configuration (Save, Reset, Load, Auto-Load)]
+- [Serverhop & Rejoin Buttons]
+- [Auto Advertize Discord]
+- [Teleport Under Lobby at Full Bag]
+- [Auto Kill Everyone As A Murd At Full Bag]
+- [Teleport Under Lobby]
+- [Auto Serverhop If Server Is Empty]
+- [Spin Around Murderer]
+- [Auto Reveal Roles]
   
 ## Features [Squid Game Bridge]
 - [Auto Complecte Bridge]
