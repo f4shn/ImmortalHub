@@ -52,6 +52,7 @@ This script is designed to enhance your gameplay experience in Roblox. It provid
 - [Auto Serverhop If Server Is Empty]
 - [Spin Around Murderer]
 - [Auto Reveal Roles]
+- [Auto Fling Murderer At Full Bag]
   
 ## Features [Squid Game Bridge]
 - [Auto Complecte Bridge]
