@@ -1,8 +1,9 @@
 repeat task.wait() until game:IsLoaded()
 
 local Games = {
-    [66654135] = "https://raw.githubusercontent.com/f4shn/ImmortalHub/refs/heads/main/mm2.lua",
-    [5830262966] = "https://raw.githubusercontent.com/f4shn/ImmortalHub/refs/heads/main/impossiblesquidbridge.lua"
+	[66654135] = "https://raw.githubusercontent.com/f4shn/ImmortalHub/refs/heads/main/mm2.lua",
+	[5830262966] = "https://raw.githubusercontent.com/f4shn/ImmortalHub/refs/heads/main/impossiblesquidbridge.lua",
+	[383310974] = 'https://raw.githubusercontent.com/f4shn/ImmortalHub/refs/heads/main/adopt.lua'
 }
 
 for i, v in pairs(Games) do
