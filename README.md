@@ -1,4 +1,4 @@
-# Roblox Murder Mystery 2 Script
+# Roblox Universal Script
 
 ## Overview
 This script is designed to enhance your gameplay experience in Roblox. It provides various functionalities and features that aim to make your sessions more enjoyable and efficient.
@@ -6,6 +6,7 @@ This script is designed to enhance your gameplay experience in Roblox. It provid
 ## Supported Games
 - Murder Mystery 2
 - Impossible Squid Game Glass Bridge 2
+- Adopt Me
 
 ## Features (MM2)
 - [U can put this script in auto execute and it will wait for full game load before running]
@@ -58,6 +59,11 @@ This script is designed to enhance your gameplay experience in Roblox. It provid
 - [Auto Complecte Bridge]
 - [Auto Open Crate (glitched by paying for small box and opening good box)]
 
+## Features (Adopt Me)
+- [Autofarm all pet tasks]
+- [Autofarm all baby tasks]
+- [One-Click automated script]
+  
 ## Usage
 1. **Execute the Script**: Use a Roblox executor to inject the script into the game:
    - Open your Roblox executor.
