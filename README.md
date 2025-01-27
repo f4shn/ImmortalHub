@@ -8,7 +8,7 @@ This script is designed to enhance your gameplay experience in Roblox. It provid
 - Impossible Squid Game Glass Bridge 2
 - Adopt Me
 
-## Features (MM2)
+## Features [MM2]
 - [U can put this script in auto execute and it will wait for full game load before running]
 - [Auto Run Itself On Serverhop]
 - [Auto Rejoin On Crash/Kick]
@@ -59,7 +59,7 @@ This script is designed to enhance your gameplay experience in Roblox. It provid
 - [Auto Complecte Bridge]
 - [Auto Open Crate (glitched by paying for small box and opening good box)]
 
-## Features (Adopt Me)
+## Features [Adopt Me]
 - [Autofarm all pet tasks]
 - [Autofarm all baby tasks]
 - [One-Click automated script]
